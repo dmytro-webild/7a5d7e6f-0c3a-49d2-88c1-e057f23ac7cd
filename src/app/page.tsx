@@ -97,13 +97,13 @@ export default function LandingPage() {
           gridVariant="three-columns-all-equal-width"
           products={[
             {
-              id: "starter",              name: "Starter Plan",              price: "$49",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ASv6buwz6eFZpPOvFZw9u1AIJx/a-product-showcase-showing-the-ai-chat-i-1772598686470-48c88566.png",              imageAlt: "Starter Plan"
+              id: "starter",              name: "Starter Plan",              price: "$49",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ASv6buwz6eFZpPOvFZw9u1AIJx/a-product-showcase-showing-the-ai-chat-i-1772598686470-48c88566.png?_wi=1",              imageAlt: "Starter Plan"
             },
             {
-              id: "professional",              name: "Professional Plan",              price: "$149",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ASv6buwz6eFZpPOvFZw9u1AIJx/a-product-showcase-showing-the-ai-chat-i-1772598686470-48c88566.png",              imageAlt: "Professional Plan"
+              id: "professional",              name: "Professional Plan",              price: "$149",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ASv6buwz6eFZpPOvFZw9u1AIJx/a-product-showcase-showing-the-ai-chat-i-1772598686470-48c88566.png?_wi=2",              imageAlt: "Professional Plan"
             },
             {
-              id: "enterprise",              name: "Enterprise Plan",              price: "Custom",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ASv6buwz6eFZpPOvFZw9u1AIJx/a-product-showcase-showing-the-ai-chat-i-1772598686470-48c88566.png",              imageAlt: "Enterprise Plan"
+              id: "enterprise",              name: "Enterprise Plan",              price: "Custom",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ASv6buwz6eFZpPOvFZw9u1AIJx/a-product-showcase-showing-the-ai-chat-i-1772598686470-48c88566.png?_wi=3",              imageAlt: "Enterprise Plan"
             }
           ]}
         />
